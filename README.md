@@ -466,7 +466,7 @@ User Question: {question}
 ### Base URL
 
 ```
-http://localhost:8000
+https://pdf-ai-chatbot-backend-mcym.onrender.com
 ```
 
 ### Endpoints
